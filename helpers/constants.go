@@ -1,0 +1,13 @@
+package helpers
+
+const (
+	EVERY_HOUR         = 3600
+	EVERY_MINUTE       = 60
+	EVERY_SECOND       = 1
+	EVERY_2_SECONDS    = 2
+	EVERY_FIVE_SECONDS = 5
+	EVERY_FIVE_MINUTES = 300
+	EVERY_TEN_MINUTES  = 600
+	EVERY_FIVE_HOURS   = 3600 * 5
+	EVERY_DAY          = 3600 * 24
+)
